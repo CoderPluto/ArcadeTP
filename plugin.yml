@@ -1,0 +1,9 @@
+name: ArcadeTP
+main: me.pluto1099.techmastary.arcadetp.ArcadeTP
+version: 0.0.2
+description: >
+             The click off a button opens up a chest GUI to select a gamemode.
+commands:
+   hub:
+      description: Opens up the GUI
+      usage: /<command>
